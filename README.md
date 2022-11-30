@@ -9,7 +9,7 @@ Esta amostra usa uma pequena estrutura da Web em Python, web.py, para ativar um 
 
 Existem quatro arquivos de origem:
 
-api.py - Funções utilitárias para fazer login na API REST e fazer chamadas para ela
-oauth.py - Funções utilitárias para fazer chamadas de autenticação OAuth
-web_utils.py - Algumas funções gerais do utilitário da Web
+api.py - Funções utilitárias para fazer login na API REST e fazer chamadas para ela.
+oauth.py - Funções utilitárias para fazer chamadas de autenticação OAuth.
+web_utils.py - Algumas funções gerais do utilitário da Web.
 api_example.py - O código principal do aplicativo de amostra. Gira e configura o aplicativo Web e implementa manipuladores de solicitação para OAuth e chamadas de API de amostra.
